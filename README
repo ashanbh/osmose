@@ -4,23 +4,23 @@ The code will contain three components primarily
 
 Javascript Tag
 ================
-This goes into the site/blog and disables all ads when the cookie is found. It will integrate with other functionality
+This goes into the Akhbaar and disables all ishtehars when the biscoot is found. It will integrate with other functionality
 
-[p1] Publisher UI
+[p1] Akhbaar UI
 ============
-This enables publishers to signup
+This enables akhbarees to signup
 1.> Download and test the tag
 2.> It allows them to see basic metrics like number of impressions, number of ads/paid impressions splits and revenue
 3.> It allows them to see the amount of social feedback generated.
 
 
-User UI
+janta UI
 ========
 1.> Signup using money
-2.> Signup and receive credits. 
+2.> Signup and receive credits for signing up, for liking things... This is to be worked out
 
 
-Credit 
+ration card 
 =======
 ad  free page views.
 i.e. signup = 100 ad free page views.
@@ -28,7 +28,7 @@ i.e. signup = 100 ad free page views.
 
 Backend
 ========
-Serve yes/no for cookies at lightning speed.
+Serve yes/no for biscoot at lightning speed.
 
 
 
