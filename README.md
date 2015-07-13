@@ -1,5 +1,4 @@
 #Osmose
--------
 Osmose isn an encrypted repository. Effectively rendering it private. 
 All the files (except this one), in this repo are encrypted
 
